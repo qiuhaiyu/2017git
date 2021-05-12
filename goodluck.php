@@ -1,1 +1,3 @@
-echo "goodname" wo fei chang hao
+<?php
+
+echo "世界和平";
